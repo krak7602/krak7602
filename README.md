@@ -1,8 +1,8 @@
-# Hi there 👋,I'm Rahul
+# Hi there 👋, I'm Rahul
 ## Pursuing
 ### Bachelor of Computer Science and Engineering
 ## Learning...
-### currently learning web development, java programming and python programming.
+### Currently learning web development, java programming and python programming.
 ## Looking forward to contributing to open source.
 ## Feel free to DM me on social media.
 <!--
