@@ -3,12 +3,7 @@
 ## Pursuing
 ### Bachelor of Computer Science and Engineering
 
-## Learning...
-### Currently learning web development, java programming and python programming.
-
 ## Looking forward to contributing to open source.
-
-## Feel free to DM me on social media.
 <!--
 **krak7602/krak7602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
