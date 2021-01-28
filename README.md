@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Rahul
 
-## Pursuing
-### Bachelor of Computer Science and Engineering
+## Pursuing: Bachelor of Computer Science and Engineering
 
 ## Looking forward to contributing to open source.
 <!--
