@@ -2,7 +2,7 @@
 
 #### I occasionally work on web dev using React, Next...
 #### Certified Kubernetes Administrator and AWS Solutions Architect Associate 💪
-#### So.. essentially, I'm good at developing web apps and devops.C
+#### So.. essentially, I'm good at developing web apps and devops.
 <!--
 **krak7602/krak7602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
